@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UR2HLeBgw2pAJ0Tvr4Kyk8Rg1AfaixxSGoj7OaMtT3dECdmzvBYj8stL7KLPNkdiFjXgRE6MCq745crTndUJsw==",
+  "success": true,
+  "projectFilePath": "/home/kiplangat/Documents/run_devops/Micro/SharedLibrary/SharedLibrary.csproj",
+  "expectedPackageFiles": [
+    "/home/kiplangat/.nuget/packages/microsoft.aspnetcore.http.abstractions/2.2.0/microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "/home/kiplangat/.nuget/packages/microsoft.aspnetcore.http.features/2.2.0/microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "/home/kiplangat/.nuget/packages/microsoft.extensions.primitives/2.2.0/microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "/home/kiplangat/.nuget/packages/system.memory/4.5.1/system.memory.4.5.1.nupkg.sha512",
+    "/home/kiplangat/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.1/system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "/home/kiplangat/.nuget/packages/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

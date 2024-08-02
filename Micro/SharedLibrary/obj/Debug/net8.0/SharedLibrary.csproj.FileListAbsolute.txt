@@ -1,0 +1,12 @@
+/home/kiplangat/Documents/run_devops/Micro/SharedLibrary/bin/Debug/net8.0/SharedLibrary.deps.json
+/home/kiplangat/Documents/run_devops/Micro/SharedLibrary/bin/Debug/net8.0/SharedLibrary.dll
+/home/kiplangat/Documents/run_devops/Micro/SharedLibrary/bin/Debug/net8.0/SharedLibrary.pdb
+/home/kiplangat/Documents/run_devops/Micro/SharedLibrary/obj/Debug/net8.0/SharedLibrary.csproj.AssemblyReference.cache
+/home/kiplangat/Documents/run_devops/Micro/SharedLibrary/obj/Debug/net8.0/SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/kiplangat/Documents/run_devops/Micro/SharedLibrary/obj/Debug/net8.0/SharedLibrary.AssemblyInfoInputs.cache
+/home/kiplangat/Documents/run_devops/Micro/SharedLibrary/obj/Debug/net8.0/SharedLibrary.AssemblyInfo.cs
+/home/kiplangat/Documents/run_devops/Micro/SharedLibrary/obj/Debug/net8.0/SharedLibrary.csproj.CoreCompileInputs.cache
+/home/kiplangat/Documents/run_devops/Micro/SharedLibrary/obj/Debug/net8.0/SharedLibrary.dll
+/home/kiplangat/Documents/run_devops/Micro/SharedLibrary/obj/Debug/net8.0/refint/SharedLibrary.dll
+/home/kiplangat/Documents/run_devops/Micro/SharedLibrary/obj/Debug/net8.0/SharedLibrary.pdb
+/home/kiplangat/Documents/run_devops/Micro/SharedLibrary/obj/Debug/net8.0/ref/SharedLibrary.dll
